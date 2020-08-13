@@ -10,7 +10,12 @@ module.exports = {
         { text: 'Landing Page', link: 'https://google.com.ar' }
       ],
       sidebar:[
-        ['/', 'Inicio'],
+        {
+          title: 'Inicio',
+          children: [ 
+            ['/docs/inicio/ini001.md', 'Inicio']
+           ]
+        },
         {
           title: 'Arquitectura',
           children: [ 
