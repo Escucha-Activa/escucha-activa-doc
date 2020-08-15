@@ -3,9 +3,9 @@ module.exports = {
     description: 'Escucha Activa',
     themeConfig: {
       nav: [
-        { text: 'Inicio', link: '/' },
+        { text: 'Inicio', link: '/docs/inicio/ini001.md' },
         { text: 'Trello', link: 'https://trello.com/b/nJUSWPFN/escucha-activa-develop' },
-        { text: 'GitHub', link: 'https://github.com/Escucha-Activa/platform' },
+        { text: 'GitHub', link: 'https://github.com/Escucha-Activa' },
         { text: 'Plataforma', link: 'https://google.com.ar' },
         { text: 'Landing Page', link: 'https://google.com.ar' }
       ],
