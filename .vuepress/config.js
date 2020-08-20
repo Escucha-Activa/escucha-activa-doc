@@ -11,12 +11,6 @@ module.exports = {
       ],
       sidebar:[
         {
-          title: 'Inicio',
-          children: [ 
-            ['/docs/inicio/ini001.md', 'Inicio']
-           ]
-        },
-        {
           title: 'Arquitectura',
           children: [ 
             ['/docs/arquitectura/arq001.md', 'Diagrama']
