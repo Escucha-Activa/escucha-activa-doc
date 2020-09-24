@@ -3,11 +3,12 @@ module.exports = {
     description: 'Escucha Activa',
     themeConfig: {
       nav: [
-        { text: 'Inicio', link: '/docs/inicio/ini001.md' },
-        { text: 'Trello', link: 'https://trello.com/b/nJUSWPFN/escucha-activa-develop' },
+        { text: 'Inicio', link: 'http://localhost:8080/' },
+        { text: 'Trello', link: 'https://trello.com/escuchaactiva1/home' },
+        { text: 'Jira', link: 'https://escucha-activa.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=EA&view=planning&selectedIssue=EA-30&issueLimit=100' },
         { text: 'GitHub', link: 'https://github.com/Escucha-Activa' },
         { text: 'Plataforma', link: 'https://google.com.ar' },
-        { text: 'Landing Page', link: 'https://google.com.ar' }
+        { text: 'Landing Page', link: 'http://208.68.38.69:8000/' }
       ],
       sidebar:[
         {
