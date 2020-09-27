@@ -59,6 +59,12 @@ module.exports = {
            ]
         },
         {
+          title: 'Servicios Rest Backend',
+          children: [ 
+            ['/docs/servicios/sr001.md', 'Servicios']
+           ]
+        },
+        {
           title: 'Reglas de Negocio',
           children: [ 
             ['/docs/reglas/r001.md', 'Reglas de Negocio']
